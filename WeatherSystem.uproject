@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E44E96F8-4E3B-E51C-7286-40B55112F9CA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WeatherSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
